@@ -1,0 +1,8 @@
+.navcss {
+    width: 100%;
+    width: 600px;
+    margin: 0 auto;
+    height: 55px;
+    background-color: #fff;
+    position: fixed;
+}
